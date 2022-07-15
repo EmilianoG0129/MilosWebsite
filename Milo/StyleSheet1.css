@@ -1,0 +1,33 @@
+body{
+		background-color: lightblue;
+}
+table{
+	th, tr,td
+	border-style: outset;
+	border-color: white;
+}
+table{
+	tr{text-align: center;}
+	h2{text-align: center;}
+}
+
+
+
+<link rel="StyleSheet" href="StyleSheet1.css"
+<style> 
+	body{
+		background-color: lightblue;
+	}
+</style> <! This is the background style>
+<style> 
+	th, td{
+	border-style: outset;
+	border-color: white;
+	}
+</style> <! This is the table border style>
+<style>
+	tr{text-align: center;}
+</style>
+<style>
+	h2{text-align: center;}
+</style>
